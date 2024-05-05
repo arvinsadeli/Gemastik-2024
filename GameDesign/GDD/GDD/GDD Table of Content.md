@@ -10,7 +10,7 @@ Excel
 
 3. **[[MECHANICS]]**
 
-4. **Story and Narrative**
+4. **Story and Narrative** (not yet)
     3.1 Story Overview
     3.2 Character Profiles
     3.3 Setting and Worldbuilding

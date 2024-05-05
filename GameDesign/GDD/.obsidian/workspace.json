@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "436e3fa7c53b86d9",
@@ -179,10 +178,10 @@
   },
   "active": "993ebd408358852d",
   "lastOpenFiles": [
-    "Untitled diagram-2024-05-05-132430.png",
     "GDD/GDD Table of Content.md",
-    "GDD/Main/MECHANICS.md",
     "GDD/Main/OVERVIEW.md",
+    "GDD/Main/MECHANICS.md",
+    "Untitled diagram-2024-05-05-132430.png",
     "GDD/Main/AESTHETICS.md",
     "GDD/Objective/GALA 2024.md",
     "Excalidraw/Drawing 2024-05-05 16.12.57.excalidraw.md",
