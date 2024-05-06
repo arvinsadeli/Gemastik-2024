@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game Engine/Gemastik-2024/Gemastik2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Game Engine/Gemastik-2024/Gemastik2024/Content/ThirdPerson/Blueprints/Player_BP.uasset",
+				"D:/Game Engine/Gemastik-2024/Gemastik2024/Content/ThirdPerson/Blueprints/Blueprint_GameMode.uasset"
+			]
+		}
+	]
+}
